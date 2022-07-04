@@ -63,4 +63,18 @@ h2 {
     margin-right: 2%;
     box-shadow: 10px 10px 30px gray;
     border-radius: 5px;
+
+
+}
+
+#ec1 {
+    border-left: 7px solid tomato;
+}
+
+#ec2 {
+    border-left: 7px solid blue;
+}
+
+footer {
+    text-align: center;
 }
